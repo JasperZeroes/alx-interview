@@ -35,7 +35,7 @@ def safe_positions(board, row, n):
                 safe_positions(board, row + 1, n)
 
 
-def create_board(size):
+def create_board(size): #CREATE chess BOARD SIZE
     """Generates the board"""
     return [0 * size for i in range(size)]
 
