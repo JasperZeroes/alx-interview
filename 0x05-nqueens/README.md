@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 0x05. N Queens
 ==============
 
 AlgorithmPython
-
--   By: Alexa Orrico, Software Engineer at Holberton School
 
 Requirements
 ------------
@@ -64,4 +61,3 @@ julien@ubuntu:~/0x08. N Queens$
 -   File: `0-nqueens.py`
 =======
  	NQUEENS INTER VIEW QUESTION
->>>>>>> 290434ff606252a4e73cf7083cc1645aa567deef
